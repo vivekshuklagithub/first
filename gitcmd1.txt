@@ -17,3 +17,5 @@ git log --- to check details
 git diff <filename>  ---- to check diffrence btw prev. version and current version
 git commit -m "message"--- to commit wit some messge(permanent)
 git checkout <filename>   ----- to rollback in prev. version
+git remote add origin https://github.com/vivekshuklagithub/first.git --------to make a connection with repository from local machine through git bash
+git push -u origin master -----to add current files in directory in github

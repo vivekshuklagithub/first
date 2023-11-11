@@ -1,0 +1,20 @@
+git coomond____
+git config user.mail <you@example.com>
+git config user.name < your name>
+
+to check user
+git config username
+ same for id
+
+cd----- for change directory
+mkdir ----- amke directory file 
+touch ----- to create file
+git init------ti Initalize git on filr
+ls -a -----to show file
+git status ----- to check status of file
+git add <filename> ---- to add in queue
+git log --- to check details 
+git diff <filename>  ---- to check diffrence btw prev. version and current version
+git commit -m "message"--- to commit wit some messge(permanent)
+
+
